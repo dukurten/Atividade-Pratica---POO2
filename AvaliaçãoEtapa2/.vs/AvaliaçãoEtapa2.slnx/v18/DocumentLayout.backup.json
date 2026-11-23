@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ifpruv-suporte\\Documents\\POO2\\Avalia\u00E7\u00E3oEtapa2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F157C-F73D-525E-829E-228698ADF1B6}|Avalia\u00E7\u00E3oEtapa2.csproj|c:\\users\\ifpruv-suporte\\documents\\poo2\\avalia\u00E7\u00E3oetapa2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F157C-F73D-525E-829E-228698ADF1B6}|Avalia\u00E7\u00E3oEtapa2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F157C-F73D-525E-829E-228698ADF1B6}|Avalia\u00E7\u00E3oEtapa2.csproj|c:\\users\\ifpruv-suporte\\documents\\poo2\\avalia\u00E7\u00E3oetapa2\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F157C-F73D-525E-829E-228698ADF1B6}|Avalia\u00E7\u00E3oEtapa2.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F157C-F73D-525E-829E-228698ADF1B6}|Avalia\u00E7\u00E3oEtapa2.csproj|c:\\users\\ifpruv-suporte\\documents\\poo2\\avalia\u00E7\u00E3oetapa2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F157C-F73D-525E-829E-228698ADF1B6}|Avalia\u00E7\u00E3oEtapa2.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F157C-F73D-525E-829E-228698ADF1B6}|Avalia\u00E7\u00E3oEtapa2.csproj|c:\\users\\ifpruv-suporte\\documents\\poo2\\avalia\u00E7\u00E3oetapa2\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F157C-F73D-525E-829E-228698ADF1B6}|Avalia\u00E7\u00E3oEtapa2.csproj|solutionrelative:conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F157C-F73D-525E-829E-228698ADF1B6}|Avalia\u00E7\u00E3oEtapa2.csproj|c:\\users\\ifpruv-suporte\\documents\\poo2\\avalia\u00E7\u00E3oetapa2\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F157C-F73D-525E-829E-228698ADF1B6}|Avalia\u00E7\u00E3oEtapa2.csproj|solutionrelative:banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F157C-F73D-525E-829E-228698ADF1B6}|Avalia\u00E7\u00E3oEtapa2.csproj|c:\\users\\ifpruv-suporte\\documents\\poo2\\avalia\u00E7\u00E3oetapa2\\agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F157C-F73D-525E-829E-228698ADF1B6}|Avalia\u00E7\u00E3oEtapa2.csproj|solutionrelative:agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ifpruv-suporte\\Documents\\POO2\\Avalia\u00E7\u00E3oEtapa2\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ifpruv-suporte\\Documents\\POO2\\Avalia\u00E7\u00E3oEtapa2\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T22:33:21.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cliente.cs",
+              "DocumentMoniker": "C:\\Users\\ifpruv-suporte\\Documents\\POO2\\Avalia\u00E7\u00E3oEtapa2\\cliente.cs",
+              "RelativeDocumentMoniker": "cliente.cs",
+              "ToolTip": "C:\\Users\\ifpruv-suporte\\Documents\\POO2\\Avalia\u00E7\u00E3oEtapa2\\cliente.cs",
+              "RelativeToolTip": "cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T22:30:06.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "conta.cs",
+              "DocumentMoniker": "C:\\Users\\ifpruv-suporte\\Documents\\POO2\\Avalia\u00E7\u00E3oEtapa2\\conta.cs",
+              "RelativeDocumentMoniker": "conta.cs",
+              "ToolTip": "C:\\Users\\ifpruv-suporte\\Documents\\POO2\\Avalia\u00E7\u00E3oEtapa2\\conta.cs",
+              "RelativeToolTip": "conta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T22:29:53.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "agencia.cs",
+              "DocumentMoniker": "C:\\Users\\ifpruv-suporte\\Documents\\POO2\\Avalia\u00E7\u00E3oEtapa2\\agencia.cs",
+              "RelativeDocumentMoniker": "agencia.cs",
+              "ToolTip": "C:\\Users\\ifpruv-suporte\\Documents\\POO2\\Avalia\u00E7\u00E3oEtapa2\\agencia.cs",
+              "RelativeToolTip": "agencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T22:29:39.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "banco.cs",
+              "DocumentMoniker": "C:\\Users\\ifpruv-suporte\\Documents\\POO2\\Avalia\u00E7\u00E3oEtapa2\\banco.cs",
+              "RelativeDocumentMoniker": "banco.cs",
+              "ToolTip": "C:\\Users\\ifpruv-suporte\\Documents\\POO2\\Avalia\u00E7\u00E3oEtapa2\\banco.cs",
+              "RelativeToolTip": "banco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T22:29:25.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ifpruv-suporte\\Documents\\POO2\\Avalia\u00E7\u00E3oEtapa2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ifpruv-suporte\\Documents\\POO2\\Avalia\u00E7\u00E3oEtapa2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAGQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T22:28:11.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
